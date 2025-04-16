@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.log
+*.sqlite3
+
+
+.env
+.env.*
+
+
+legal_gpt_venv/
+venv/
+env/
+
+
+chroma_db/
+
+old_pdfs/
+new_pdfs/
+supreme_court_orders/
+.DS_Store
+.streamlit/secrets.toml
+
+scrape data.py

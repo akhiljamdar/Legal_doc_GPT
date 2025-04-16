@@ -1,1 +1,0 @@
-# Legal_doc_GPT
